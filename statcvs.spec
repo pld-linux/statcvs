@@ -19,6 +19,7 @@ URL:		http://statcvs.sourceforge.net/
 #BuildRequires:	jfreechart >= 0:0.9.20
 #BuildRequires:	jpackage-utils >= 0:1.5.32
 #BuildRequires:	junit >= 0:3.8.1
+BuildRequires:	unzip
 Requires:	cvs
 #Requires:	java-devel >= 1.4
 #Requires:	java-fonts
