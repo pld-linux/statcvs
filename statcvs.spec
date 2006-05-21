@@ -8,17 +8,17 @@ Version:	0.2.2
 Release:	0.2
 Epoch:		0
 License:	LGPL
-Group:		Development/Libraries/Java
+Group:		Development/Languages/Java
 Source0:	http://dl.sourceforge.net/statcvs/%{name}-%{version}.zip
 # Source0-md5:	99a0f04064d25c595b91972735a33c69
 URL:		http://statcvs.sourceforge.net/
 #BuildRequires:	ant >= 0:1.6
-#BuildRequires:	ant-junit >= 0:1.6 
+#BuildRequires:	ant-junit >= 0:1.6
 #BuildRequires:	java-devel >= 1.4
 #BuildRequires:	jcommon >= 0:0.9.7
 #BuildRequires:	jfreechart >= 0:0.9.20
-#BuildRequires:	jpackage-utils >= 0:1.5.32
 #BuildRequires:	junit >= 0:3.8.1
+#BuildRequires:	rpm-javaprov
 BuildRequires:	unzip
 Requires:	cvs
 #Requires:	java-devel >= 1.4
