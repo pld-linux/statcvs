@@ -2,7 +2,7 @@
 # - make package with ant?
 # - javadoc subpackage
 Summary:	Generate statistical HTML reports from your CVS repository logs
-Summary(pl.UTF-8):   Generowanie statystycznych raportów HTML z logów repozytorium CVS
+Summary(pl.UTF-8):	Generowanie statystycznych raportów HTML z logów repozytorium CVS
 Name:		statcvs
 Version:	0.2.2
 Release:	0.2
