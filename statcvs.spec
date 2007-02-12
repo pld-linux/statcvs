@@ -2,7 +2,7 @@
 # - make package with ant?
 # - javadoc subpackage
 Summary:	Generate statistical HTML reports from your CVS repository logs
-Summary(pl):	Generowanie statystycznych raportów HTML z logów repozytorium CVS
+Summary(pl.UTF-8):   Generowanie statystycznych raportÃ³w HTML z logÃ³w repozytorium CVS
 Name:		statcvs
 Version:	0.2.2
 Release:	0.2
@@ -33,10 +33,10 @@ StatCvs retrieves information from a CVS repository and generates
 various tables and charts describing the project development, e.g.
 timeline for the lines of code, contribution of each developer etc.
 
-%description -l pl
-StatCvs wyci±ga informacje z repozytorium CVS i generuje ró¿ne tabele
-i wykresy opisuj±ce rozwój projektu, np. liczbê linii kodu w
-zale¿no¶ci od czasu, wk³ad ka¿dego programisty itp.
+%description -l pl.UTF-8
+StatCvs wyciÄ…ga informacje z repozytorium CVS i generuje rÃ³Å¼ne tabele
+i wykresy opisujÄ…ce rozwÃ³j projektu, np. liczbÄ™ linii kodu w
+zaleÅ¼noÅ›ci od czasu, wkÅ‚ad kaÅ¼dego programisty itp.
 
 %prep
 %setup -q
