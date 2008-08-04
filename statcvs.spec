@@ -4,13 +4,13 @@
 Summary:	Generate statistical HTML reports from your CVS repository logs
 Summary(pl.UTF-8):	Generowanie statystycznych raportów HTML z logów repozytorium CVS
 Name:		statcvs
-Version:	0.3
+Version:	0.4.0
 Release:	0.1
 Epoch:		0
 License:	LGPL
 Group:		Development/Languages/Java
 Source0:	http://dl.sourceforge.net/statcvs/%{name}-%{version}.zip
-# Source0-md5:	289d9657ca7f1f863572009157be016a
+# Source0-md5:	d23ec583a9383415b1e94ab0de7bea1c
 URL:		http://statcvs.sourceforge.net/
 #BuildRequires:	ant >= 0:1.6
 #BuildRequires:	ant-junit >= 0:1.6
